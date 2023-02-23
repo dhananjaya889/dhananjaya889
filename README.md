@@ -24,9 +24,8 @@
 <h3 align="center">Connect with me:</h3>
 
 
-[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://github.com/dhananjaya889.github.io)](https://github.com/dhananjaya889.github.io)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94788311883)](https://wa.me/+94712310837)
 
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94788311883)](https://wa.me/+94712310837)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maveekumbura889@gmail.com)](mailto:maveekumbura889@gmail.com)
  [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/dhananjaya889)](https://github.com/dhananjaya889)
 
