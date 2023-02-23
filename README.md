@@ -60,9 +60,9 @@
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=dhananjaya889&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="dhananjaya889" align="left" />
 </a>
 
-<a href="#dhananjaya889-title">
+<!-- <a href="#dhananjaya889-title">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaya889&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="dhananjaya889" align="right" />
-</a>
+</a> -->
 </div>
 <br>
 
