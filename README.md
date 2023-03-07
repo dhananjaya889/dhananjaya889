@@ -56,6 +56,9 @@
   </a>
 </p>
 <div>
+
+<img align="center" src = "https://profile-counter.glitch.me/dhananjaya889/count.svg" alt ="Loading"><br>
+
   <center>
 <a href="#dhananjaya889-title">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=dhananjaya889&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="dhananjaya889" align="left" />
