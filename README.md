@@ -91,12 +91,23 @@
   </a> 
 </p>
 
+
+### Visitors Count
+
+
 <div>
-  <img align="center" src = "https://profile-counter.glitch.me/dhananjaya889/count.svg" alt ="Loading"><br>
+  <img align="center" src = "https://profile-counter.glitch.me/dhananjaya889/count.svg" alt ="Loading"/>
+  <br>
+  <br>
 
   <center>
 <a href="#dhananjaya889-title">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=dhananjaya889&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="dhananjaya889" align="left" />
 </a>
     </enter>
+
+<a href="#dhananjaya889-title">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukajs&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="MadhukaJS" align="right" />
+</a>
+
 </div>
