@@ -83,9 +83,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
@@ -107,7 +104,7 @@
     </enter>
 
 <a href="#dhananjaya889-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukajs&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="MadhukaJS" align="right" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukajs&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="dhananjaya889" align="right" />
 </a>
 
 </div>
