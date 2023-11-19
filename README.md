@@ -91,6 +91,8 @@
 
 ### Visitors Count
 
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=dhananjaya889&theme=gruvbox_duo" alt="dhananjaya889" /></p>
+
 
 <div>
   <img align="center" src = "https://profile-counter.glitch.me/dhananjaya889/count.svg" alt ="Loading"/>
