@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hello, I'm Dhananjaya Maveekumbura</h1>
-<h3 align="center">I'm an undergraduate at University of Ruhuna, Sri Lanka</h3>
+    I'm Dhananjaya from Anuradhapura, and I'm an Undergraduate of the Faculty of Technology, University of Ruhuna in Sri Lanka (Bachelor of information communication technology Honours). I do web development. I enjoy learning programming languages and frameworks like React, MERN, and anguler.
 
 - 🔭 I’m currently working on **Full Stack Development(JavaScript,MERN,Java,Spring boot)**
 
